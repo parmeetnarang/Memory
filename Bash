@@ -6,7 +6,7 @@
 <h1> Hello! </h1>
 
 <p> Creating a Simple Page </p>
-
+<p> Processing the source code.
 <p> To view the source code, right click on this page and select View source or similar command. </p>
 </body>
 </html>
